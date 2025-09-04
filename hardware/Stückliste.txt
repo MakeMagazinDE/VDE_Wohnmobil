@@ -1,0 +1,35 @@
+2x	Platine (PhaseChanger_5_Top und PhaseChanger_5_Bottom)
+1x 	Gehäuse Blanko 115x90x55mm
+2x 	Würgenippel M20
+-K0 bis -K4: 
+5x 	Finder 40.61.8.230.0000 Relais 230V//230V/1xUm
+-K11, -K12:
+2x 	SRD-5VDC-SL-C Relais 5V//230V/10A
+-U2:
+1x 	HLK-PM01 Wandler 230V/5V/3W
+-U1:
+1x 	Arduino Nano (mit 2 Stück Buchsenleiste 15polig als Fassung und 1 Stück USB-Kabel)
+-T11, T12:
+2x 	IRF3205 MOSFET LogicLevel
+-X1:
+1x 	425-07P-2.5mm Printklemme 7pol 230V/16A
+-F1:
+1x 	250V T 500mA Sicherung 5x20mm (mit 1 Stück Sicherungshalter oder 2 Printhalter f. 5x20mm)
+-LEDrd_flt:
+1x 	LED 3mm rot
+-LEDye_rev:
+1x 	LED 3mm gelb
+-LEDgn_on:
+1x 	LED 3mm grün
+-D1 bis -D3, -D11, -D12: 
+5x 	1N4148 axial TTH
+-R112, -R122:
+3x 	22k SMD 1206
+-R1 bis -R3, R6 bis -R8,-R11 bis -R13:
+9x  	590k SMD 1206
+-R4, -R5, -R9, -R10,- R14, -R15:
+6x 	68k SMD 1206
+-R20, -R21, -R22:
+3x 	2k37 (2k2) SMD 1206
+-C1 bis -C3:
+3x 	3u3 10V keram. Kondensator SMD 1206
